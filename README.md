@@ -9,7 +9,7 @@
 
 [前端模板V3-Admin-Vite使用教程](https://github.com/SunYiGui/SoftwareDevelopStudy/blob/main/front/Vue3/%E6%A8%A1%E6%9D%BF/V3%20Admin%20Vite/V3%20Admin%20Vite%E6%95%99%E7%A8%8B.md)✅
 
-[SpringBoot+VUE开发实战🔍](back/Java/Spring Boot+Vue3/学习笔记.md)
+[SpringBoot+VUE开发实战🔍](https://github.com/SunYiGui/SoftwareDevelopStudy/blob/main/back/Java/Spring Boot+Vue3/学习笔记.md)
 
 
 
