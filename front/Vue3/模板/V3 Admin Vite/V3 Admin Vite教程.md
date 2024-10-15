@@ -878,3 +878,7 @@ Authorization: token ? `Bearer ${token}` : undefined,
 现有接口
 
 `@/src/api/...`
+
+## HTTP请求
+
+![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/50d9b85bac81431b8b5ad89f8d72058b~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp#?w=834&h=118&s=7848&e=png&b=ffffff)
